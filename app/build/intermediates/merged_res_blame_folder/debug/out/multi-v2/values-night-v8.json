@@ -4,6 +4,25 @@
             "outputFile": "com.example.myapplication.app-mergeDebugResources-28:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Pardis\\AndroidStudioProjects\\FirstAndroidApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "320"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "171"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Pardis\\.gradle\\caches\\transforms-3\\e823a5dda738fb7207ec40a9ecdd8129\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -35,25 +54,6 @@
                         "startOffsets": "808,883,994,1083,1184,1291,1398,1497,1600,1688,1812,1914,2016,2132,2234,2348,2476,2592,2714,2850,2970,3104,3224,3336,3551,3668,3792,3922,4044,4182,4316,4432",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "878,989,1078,1179,1286,1393,1492,1595,1683,1807,1909,2011,2127,2229,2343,2471,2587,2709,2845,2965,3099,3219,3331,3457,3663,3787,3917,4039,4177,4311,4427,4547"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Pardis\\AndroidStudioProjects\\MyProfile\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "320"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "171"
                     }
                 }
             ]
