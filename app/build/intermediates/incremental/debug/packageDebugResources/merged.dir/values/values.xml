@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_mode_background">#212121</color>
+    <color name="dark_mode_text">#FFFFFF</color>
+    <color name="dark_mode_toggle_background">#616161</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Name">Parsa Enayati</string>
+    <string name="app_name">My Profile</string>
+    <string name="bio">s</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="my_bio">My Bio</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

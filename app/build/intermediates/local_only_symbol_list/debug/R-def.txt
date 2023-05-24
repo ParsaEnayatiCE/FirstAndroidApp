@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color dark_mode_background
+color dark_mode_text
+color dark_mode_toggle_background
+color white
+drawable b
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id circularImageView
+id constraintLayout
+id textView2
+id textViewTest
+id titleBio
+id toggleButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw bio
+string Name
+string app_name
+string bio
+string call
+string email
+string my_bio
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

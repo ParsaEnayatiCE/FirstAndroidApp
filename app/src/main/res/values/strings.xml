@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="Name">Parsa Enayati</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="bio">s</string>
+    <string name="my_bio">My Bio</string>
+</resources>
